@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "jojitoon",
+    "label": "Software Developer",
+    "picture": "",
+    "email": "jojitoon@gmail.com",
+    "phone": "(+234) 70-3988-1415",
+    "website": "https://jojitoon.wordpress.com/",
+    "summary": "Experienced Software Developer with a demonstrated history of working in the information technology and services industry. Skilled in Software and Game Development, Leadership, Project Planning, Web Development, and Program Management. Strong information technology professional with a Bachelor's degree focused in Mathematics from Federal University of Technology Owerri.",
+    "location": {
+      "address": "1 Aminu street",
+      "postalCode": "",
+      "city": "Lagos",
+      "countryCode": "NG",
+      "region": "Lagos"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "jojiAndela",
+        "url": "https://github.com/jojiAndela/"
+      },
+      {
+        "network": "Facebook",
+        "username": "joji toon",
+        "url": "https://www.facebook.com/joji.toon.7"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Ikechukwu Orji",
+        "url": "https://www.linkedin.com/in/ikechukwu-orji-0a5644142/"
+      },
+      {
+        "network": "Twitter",
+        "username": "jojitoon",
+        "url": "https://twitter.com/jojitoon1"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Andela",
+      "position": "Software developer",
+      "website": "http://andela.com",
+      "startDate": "2018-08-06",
+      "summary": "Andela is a network of technology leaders dedicated to advancing human potential. We help companies build high-performing engineering teams by investing in Africa’s most talented software developers. Backed by Chan Zuckerberg Initiative, GV, and Spark Capital, Andela is catalyzing the growth of tech ecosystems across the African continent while solving the global technical talent shortage",
+      "highlights": [
+        "design a ride management system",
+        "design packages to make life easier"
+      ]
+    },
+    {
+      "company": "Edurevolt",
+      "position": "CTO/Software developer",
+      "website": "edurevolt.herokuapp.com",
+      "startDate": "2016-01-01",
+      "summary": "",
+      "highlights": [
+        "design a learning management system"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Federal university of technology",
+      "area": "Mathematics",
+      "studyType": "Bachelor",
+      "startDate": "2011-11-01",
+      "endDate": "2016-07-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS/LESS/SASS",
+        "Javascript",
+        "ReactJs",
+        "NodeJs",
+        "XML",
+        "Ruby on Rails"
+      ]
+    },
+    {
+      "name": "Software development",
+      "level": "Mid-level",
+      "keywords": [
+        "Android",
+        "Java",
+        "kotlin",
+        "C#",
+        "React native"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Good"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Gaming/Animation",
+      "keywords": [
+        "Game design",
+        "Game playing",
+        "Animation design"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Oluwatomiyin Adebanjo",
+      "reference": "It is my pleasure to recommend Ikechukwu, his performance working as a Software Developer at Andela proved that he will be a valuable addition to any company."
+    }
+  ]
+}
